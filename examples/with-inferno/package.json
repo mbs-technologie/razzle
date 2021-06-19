@@ -13,7 +13,7 @@
     "inferno": "7.4.2",
     "inferno-component": "7.4.2",
     "inferno-hydrate": "^7.4.2",
-    "inferno-server": "7.4.2"
+    "inferno-server": "7.4.8"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
