@@ -14,7 +14,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "webpack-bundle-analyzer": "^3.9.0"
+    "webpack-bundle-analyzer": "^4.0.0"
   },
   "peerDependencies": {
     "razzle": "4.0.4"
