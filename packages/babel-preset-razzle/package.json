@@ -19,7 +19,7 @@
     "babel-plugins/optimize-hook-destructuring.js"
   ],
   "dependencies": {
-    "@babel/core": "^7.11.1",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.10.4",
     "@babel/plugin-proposal-numeric-separator": "^7.10.4",
