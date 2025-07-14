@@ -11,7 +11,7 @@
     "seed": "node ./scripts/seed.js"
   },
   "dependencies": {
-    "babel-preset-react-app": "10.0.0",
+    "babel-preset-react-app": "10.0.1",
     "better-sqlite3": "^7.1.2",
     "date-fns": "^2.16.1",
     "excerpts": "^0.0.3",
